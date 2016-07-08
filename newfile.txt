@@ -1,2 +1,4 @@
 newfile c: 
-This is a sample text file to test GIT
+This is a sample text file to test GIT 
+edited now
+added some more lines
